@@ -1,0 +1,8 @@
+{
+  "name": "internet-of-holiday-lights",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.2.0",
+    "colorwheel": "~1.0.0"
+  }
+}
